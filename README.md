@@ -3,9 +3,11 @@
 
 - 🔭 I work actually to become **FrontEnd & BackEnd developer.**
 
-- 🌱 FrameWorks / Libraries [React (learning) Symfony (learning)](React (learning) Symfony (learning))
+- 📫 Books Wild Code School - Orléans | 2022 **Languages HTML / CSS JavaScript PHP / MySQL**
 
-- 📫 books Wild Code School - Orléans | 2022 **Languages HTML / CSS JavaScript PHP / MySQL**
+- 🌱 FrameWorks / Libraries **React Symfony**
+
+- 📝Few projects [https://github.com/greegouze/CV-Geralt , https://github.com/greegouze/2022-09-php-orleans-project-saintay]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
