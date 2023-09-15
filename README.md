@@ -5,7 +5,7 @@
 
 - 📫 Books Wild Code School - Orléans | 2022 **Languages HTML / CSS JavaScript PHP / MySQL**
 
-- 🌱 FrameWorks / Libraries **React Symfony**
+- 🌱 FrameWorks / Libraries **React / Symfony**
 
 - 📝Few projects [https://github.com/greegouze/CV-Geralt , https://github.com/greegouze/2022-09-php-orleans-project-saintay]
 
