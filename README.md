@@ -13,7 +13,7 @@ React addict ⚛️
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silaex&layout=compact&theme=transparent&hide_border=true)](https://github.com/greegouze)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silaex&layout=compact&theme=transparent&hide_border=true)]([https://github.com/greegouze](https://github.com/greegouze)https://github.com/greegouze)
 
 
 
